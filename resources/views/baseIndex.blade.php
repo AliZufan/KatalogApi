@@ -500,10 +500,10 @@
                 });
         }
 
-        function editData(data) {
-            $("#myModal").modal("show");
-            $('#nmr_edit').
-        }
+        // function editData(data) {
+        //     $("#myModal").modal("show");
+        //     $('#nmr_edit').
+        // }
 
     </script>
     <!-- Slimscroll JavaScript -->
