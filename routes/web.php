@@ -14,4 +14,3 @@
 Route::get('/', function () {
     return view('home');
 });
-Route::get('/getAllMobil', 'AjaxController@GetAllMobil');
